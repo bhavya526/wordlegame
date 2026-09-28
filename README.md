@@ -1,4 +1,4 @@
-# 📝 Wordle Clone (Verb Edition)
+# 📝 Wordle Clone 
 
 A dynamic, web-based Wordle clone where players guess a hidden **5-letter verb** retrieved in real-time from an external API. Built with vanilla JavaScript, HTML5, CSS3, and styled with Animate.css for interactive UI feedback.
 
