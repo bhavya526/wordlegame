@@ -4,6 +4,13 @@ A dynamic, web-based Wordle clone where players guess a hidden **5-letter verb**
 
 ---
 
+## 🚀 Live Demo
+
+Experience the game live in your browser:
+👉 **[Play Wordle Clone on Netlify](https://wordleeee-game.netlify.app/)**
+
+---
+
 ## 🌟 Key Features
 
 * **Dynamic Word Generation:** Fetches a fresh, random 5-letter verb for every game using the Words API.
@@ -23,14 +30,15 @@ A dynamic, web-based Wordle clone where players guess a hidden **5-letter verb**
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
 * **Animations:** [Animate.css](https://animate.style/)
 * **External API:** [Words API](https://www.wordsapi.com/) via RapidAPI
+* **Deployment:** [Netlify](https://www.netlify.com/)
 
 ---
 
-## 🚀 Getting Started
+## 💻 Local Setup
 
 ### Prerequisites
 
-All you need is a modern web browser (Google Chrome, Firefox, Safari, Edge). No node server or complex build tools required!
+All you need is a modern web browser (Google Chrome, Firefox, Safari, Edge). No Node server or complex build tools required!
 
 ### Installation
 
